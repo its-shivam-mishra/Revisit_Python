@@ -1,0 +1,63 @@
+1. Advanced String Manipulation
+Longest substring without repeating characters
+Minimum window substring
+String pattern matching (KMP / Rabin-Karp)
+
+👉 Focus: Sliding window + hashing
+👉 Expectation: O(n) solutions
+
+🔹 2. Arrays & Two Pointer Optimization
+Trapping Rain Water
+3Sum / 4Sum
+Container With Most Water
+
+👉 Focus: Two pointers + greedy
+👉 Expectation: Avoid brute force
+
+🔹 3. Dynamic Programming (Core for Senior Roles)
+Longest Increasing Subsequence (LIS)
+Edit Distance
+0/1 Knapsack
+
+👉 Focus: State definition + optimization
+👉 Expectation: Convert recursion → DP → optimized DP
+
+🔹 4. Graph Algorithms (Very Important)
+Detect cycle in directed/undirected graph
+Shortest path (Dijkstra / BFS)
+Number of islands
+
+👉 Focus: BFS, DFS, Union-Find
+👉 Expectation: Real-world mapping (network, dependencies)
+
+🔹 5. Tree & Binary Tree Problems
+Lowest Common Ancestor (LCA)
+Serialize/Deserialize Binary Tree
+Diameter of Binary Tree
+
+👉 Focus: Recursion + tree traversal
+👉 Expectation: Clean recursive thinking
+
+🔹 6. Backtracking / Recursion (Complex Scenarios)
+N-Queens
+Word Search
+Generate all subsets/permutations
+
+👉 Focus: Decision tree + pruning
+👉 Expectation: Avoid unnecessary recursion calls
+
+🔹 7. Heap / Priority Queue Problems
+Top K frequent elements
+Merge K sorted lists
+Median in data stream
+
+👉 Focus: Min/Max heap
+👉 Expectation: Efficient streaming solutions
+
+🔹 8. System Design + DSA Hybrid
+LRU Cache (VERY COMMON)
+Design HashMap
+Rate Limiter
+
+👉 Focus: HashMap + Doubly Linked List
+👉 Expectation: O(1) operations + design clarity
