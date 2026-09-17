@@ -77,3 +77,5 @@ def find_duplicate_words(w):
     return filter(lambda x:x[1]>1,dic.items())
 
 print(list(find_duplicate_words(text)))
+
+
