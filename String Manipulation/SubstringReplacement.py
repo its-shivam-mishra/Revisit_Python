@@ -31,4 +31,15 @@ def substring_rep(s, old, new):
 
 # Example
 s = "I love Python. Python is easy."
-print(substring_rep(s, "Python", "C#"))
+#print(substring_rep(s, "Python", "C#"))
+
+
+def substring_replacement_builtin(s, old, new):
+    s2=''
+    i=0
+    while i<len(s):
+        if s[i:i+len(old)] == old:
+            s2+=new
+            i+=len(old)
+            
+    
